@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Terrain id="BelShir"/>
+<Unit id="SiegeTankSieged"/>
+<Unit id="Reaper"/>
+<Unit id="Marauder"/>
+<Unit id="Thor"/>
+<Unit id="Banshee"/>
+<Unit id="VoidRay"/>
+<Unit id="InfestedTerransEgg"/>
+<Unit id="InfestedTerransEggPlacement"/>
+<Unit id="ThorAP"/>
+<Unit id="GlobeStatue"/>
+<Unit id="HelperEmitterSelectionArrow"/>
+</Preload>

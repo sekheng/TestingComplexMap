@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectUnit Id="1154750035" Position="57.8945,43.3112,0" Rotation="6.035" Scale="1,1,1" UnitType="Marauder" Player="1"/>
+    <ObjectUnit Id="1102348316" Position="53.3974,38.3642,0" Rotation="3.9233" Scale="1,1,1" UnitType="InfestedTerransEggPlacement" Player="1"/>
+    <ObjectUnit Id="1113668536" Position="51.401,55.5485,0" Rotation="1.1176" Scale="1,1,1" UnitType="InfestedTerransEggPlacement" Player="1"/>
+    <ObjectUnit Id="1213264029" Position="55.864,43.0788,0" Rotation="5.704" Scale="1,1,1" UnitType="Marauder" Player="1"/>
+    <ObjectUnit Id="1350695530" Position="55.6857,46.1057,0" Rotation="2.905" Scale="1,1,1" UnitType="SiegeTankSieged" Player="15"/>
+    <ObjectUnit Id="418261627" Position="53.5666,46.485,0" Rotation="2.4316" Scale="1,1,1" UnitType="ThorAP" Player="15"/>
+    <ObjectUnit Id="395783047" Position="57.8635,47.7897,0" Rotation="4.698" Scale="1,1,1" UnitType="HelperEmitterSelectionArrow" Player="15"/>
+    <ObjectUnit Id="1804102444" Position="57.7814,37.7143,0" Rotation="1.2753" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="339263974" Position="51.594,43.8327,0" Rotation="2.1003" Scale="1,1,1" UnitType="Thor" Player="15"/>
+    <ObjectUnit Id="721567645" Position="56.2375,39.8593,0" Rotation="1.085" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="1526172791" Position="61.4907,39.5163,0" Rotation="1.2866" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="516512296" Position="62.8757,38.937,0" Rotation="1.623" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="599557782" Position="54.602,42.647,0" Rotation="2.5383" Scale="1,1,1" UnitType="Marauder" Player="1"/>
+    <ObjectUnit Id="1628840943" Position="59.5078,39.1281,0" Rotation="4.4414" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="624461185" Position="57.4362,40.6625,0" Rotation="4.403" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="1213794013" Position="61.472,45.5083,0" Rotation="6.2585" Scale="1,1,1" UnitType="Thor" Player="15"/>
+    <ObjectUnit Id="530295669" Position="54.6582,38.4377,0" Rotation="0.4274" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="851089762" Position="53.8395,39.913,0" Rotation="2.4443" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="295322355" Position="60.2993,43.2526,0" Rotation="4.5761" Scale="1,1,1" UnitType="Marauder" Player="1"/>
+    <ObjectUnit Id="633141083" Position="60,49,0" Rotation="4.186" Scale="1,1,1" UnitType="GlobeStatue" Player="15"/>
+    <ObjectUnit Id="1527871022" Position="58.6386,42.3903,0" Rotation="1.2817" Scale="1,1,1" UnitType="Marauder" Player="1"/>
+    <ObjectUnit Id="1868388301" Position="59.523,37.8093,0" Rotation="5.1948" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="1740881299" Position="58.9904,46.9445,0" Rotation="2.4841" Scale="1,1,1" UnitType="ThorAP" Player="15"/>
+    <ObjectUnit Id="628799477" Position="52.0473,41.0993,0" Rotation="1.0278" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="15448243" Position="55.8288,37.9045,0" Rotation="3.565" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="958893883" Position="52.2031,47.833,0" Rotation="5.6223" Scale="1,1,1" UnitType="VoidRay" Player="15"/>
+    <ObjectUnit Id="1746300760" Position="54.1384,49.7697,0" Rotation="3.7463" Scale="1,1,1" UnitType="SiegeTankSieged" Player="15"/>
+    <ObjectUnit Id="1223011987" Position="54.0183,41.071,0" Rotation="3.0295" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="1489444859" Position="54.8913,36.5144,0" Rotation="0.0004" Scale="1,1,1" UnitType="Reaper" Player="1"/>
+    <ObjectUnit Id="668330207" Position="52.8544,36.9086,0" Rotation="0.703" Scale="1,1,1" UnitType="Banshee" Player="1"/>
+    <ObjectUnit Id="1322241838" Position="57.811,39.334,0" Rotation="3.3408" Scale="1,1,1" UnitType="InfestedTerransEgg" Player="1"/>
+    <ObjectUnit Id="1264718818" Position="48.8012,49.1591,0" Rotation="0.0058" Scale="1,1,1" UnitType="InfestedTerransEggPlacement" Player="1"/>
+    <ObjectUnit Id="490473644" Position="59.8315,42.138,0" Rotation="2.3596" Scale="1,1,1" UnitType="Marauder" Player="1"/>
+    <ObjectUnit Id="944937745" Position="56.403,41.9858,0" Rotation="0.929" Scale="1,1,1" UnitType="Marauder" Player="1"/>
+</PlacedObjects>
